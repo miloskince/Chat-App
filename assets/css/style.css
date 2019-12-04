@@ -1,0 +1,90 @@
+#user{
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    align-content: center;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    background-color: lightgray;
+    border-radius: 3px;
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+#newMessage{
+    width: 550px;
+    height: 30px;
+    text-align: center;
+    align-content: center;
+    color: black;
+    background-color: lightgray;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+#message{
+    display: inline-block;
+    width: 800px;
+    height: 485px;
+    overflow-y: auto;
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: grey;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#myMessage{
+    display: inline-block;
+    width: 800px;
+    height: 200px;
+    overflow-y: auto;
+    border-style: solid;
+    border-color: black;
+    border-radius: 15px;
+    background-color: grey;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#btn{
+    height: 35px;
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    background-color: gray;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+}
+
+section{
+    margin-left: 100px;
+}
+
+footer{
+    margin-left: 50px;
+}
+span{
+    padding: 5px;
+    height: 35px;
+    text-align: center;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: chartreuse;
+}
+body{
+    background-color: lightgray;
+}
